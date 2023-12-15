@@ -68,7 +68,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                 child: Center(
                   child: Text(
-                    'Halo, $username. This is Headlines News Today',
+                    'Halo, Heny. This is Headlines News Today',
                     textAlign: TextAlign.center, // Rata tengah
                     style: Theme.of(context).textTheme.headline6!.copyWith(
                         color: Colors.white), // Teks besar dan warna putih
